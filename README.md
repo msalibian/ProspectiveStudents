@@ -9,7 +9,7 @@ I suggest that you also spare a few minutes to read through
 the [Frequently Asked Questions page](https://www.stat.ubc.ca/graduate-admissions-faqs)
 as well. 
 
-I will not look at individual cases unless the Admissions Committee contacts me. If you are interested
+I will not look at individual applications unless the Admissions Committee contacts me. If you are interested
 in working under my supervsion, it is up to you to indicate so in the application package you submit.
 It will help your case if you explain why you are interested in being my student, specifically. 
 Identifying a problem or research topic of interest that aligns with my research and expertise is 
