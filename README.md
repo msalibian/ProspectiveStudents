@@ -15,8 +15,18 @@ It will help your case if you explain why you are interested in being my student
 Identifying a problem or research topic of interest that aligns with my research and expertise is 
 definitively a big plus.
 
-My papers can be found [here](https://www.stat.ubc.)ca/users/matias-salibian-barrera), and most of my code 
+I do not generally take visiting students (even fully self-funded). The exceptions are the cases where
+there is a specific well-defined 
+problem with which I can help. If you think you are in this latter category, 
+please send me a detailed technical description
+of the problem (identifying what I can contribute to solving it), and a tentative research plan for your visit.  
+This does not guarantee that you will be invited, but you can be sure I will read
+and consider your request carefully.
+
+My papers can be found [here](https://www.stat.ubc.ca/users/matias-salibian-barrera), and most of my code 
 is [here](https://github.com/msalibian). 
+
+
 
 
 
