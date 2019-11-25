@@ -6,8 +6,7 @@ Thank you for your interest in our graduate programs. Admissions to the MSc and 
 managed centrally by an Admissions Committee. Information on the application process (including
 minimum requirements, deadlines, etc.) can be found [here](https://www.stat.ubc.ca/graduate-admissions). 
 I suggest that you also spare a few minutes to read through 
-the [Frequently Asked Questions page](https://www.stat.ubc.ca/graduate-admissions-faqs)
-as well. 
+the [Frequently Asked Questions page](https://www.stat.ubc.ca/graduate-admissions-faqs).
 
 I will not look at individual applications unless the Admissions Committee contacts me. If you are interested
 in working under my supervsion, it is up to you to indicate so in the application package you submit.
