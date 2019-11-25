@@ -1,4 +1,4 @@
-# ProspectiveStudents
+# Prospective Students
 
 ## Useful information for prospective students
 
