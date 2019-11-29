@@ -8,10 +8,9 @@ minimum requirements, deadlines, etc.) can be found [here](https://www.stat.ubc.
 I suggest that you also spare a few minutes to read through 
 the [Frequently Asked Questions page](https://www.stat.ubc.ca/graduate-admissions-faqs).
 
-I will not look at individual applications unless the Admissions Committee contacts me. 
-I typically do not supervise MSc students until after they have completed at least two Terms of course 
-work in our program.  
-If you are interested in working under my supervsion, it is up to you to indicate so in the application 
+I will not look at individual applications unless the Admissions Committee contacts me. I typically do
+not supervise MSc students until after they have completed at least two Terms of course 
+work in our program. If you are interested in working under my supervsion, it is up to you to indicate so in the application 
 package you submit. It will help your case if you explain why you are interested in being specifically my student. 
 Identifying a problem or area of interest that aligns closely with my research and expertise is 
 definitively a big plus. 
