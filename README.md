@@ -10,7 +10,7 @@ the [Frequently Asked Questions page](https://www.stat.ubc.ca/graduate-admission
 
 I typically do not look at individual applications unless the Admissions Committee contacts me, and generally MSc
 students do not have a supervisor until after they have completed two Terms of course 
-work in our program. If you are interested in working under my supervsion, please indicate so in the application 
+work in our program. If you are interested in working under my supervision, please indicate so in the application 
 package you submit. It will help your case if you explain why you are interested in being specifically my student. 
 Identifying a problem or area of interest that aligns closely with my research and expertise is 
 definitively a big plus. 
